@@ -1,1 +1,2 @@
-Yeah boy!
+Yeah boy! pwd show te path.
+
